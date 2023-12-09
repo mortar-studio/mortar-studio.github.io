@@ -1,17 +1,22 @@
 #Title{
 	color: black;
-	height: auto;
 	font-family: Arial, Helvetica, sans-serif;
+	height: auto;
+
 }
 
 .bodyText{
-	color: black
-	font-style: italic;
+	color: black;
 	font-family: Arial, Helvetica, sans-serif;
-	
+}
+
+#italic{
+	font-style:italic;
 }
 
 .responsive{
 	width: 100%;
-	height: auto;
+  	height: auto;
+  	padding-bottom: 7%;
+
 }
