@@ -1,5 +1,5 @@
 @media only screen and (min-width: 768px) {
-    /* tablets and desktop, will have two columns */
+    /* tablets and desktop, will have 2 columns */
 
 			#Title{
 				color: black;
@@ -18,8 +18,10 @@
 				padding-right: 5%;
 			}
 
-			#italic{
+			.italic{
 				font-style:italic;
+				padding-bottom: 3%;
+				font-family: Arial, Helvetica, sans-serif;
 			}
 
 			.responsive{
@@ -38,6 +40,8 @@
 
 			.footerLast{
 				padding-bottom: 3%;
+				text-align: right;
+
 			}
 
 			.Soft{
@@ -54,7 +58,7 @@
 			}
 
 			.col1 {
-				width: 15%;
+				width: 25%;
 				background-color: ffffff;
 				position: fixed;
 				left:0;
@@ -62,9 +66,9 @@
 			}
 
 			.col2 {
-				width: 85%;
+				width: 75%;
 				background-color: ffffff;
-				margin-left: 15%;
+				margin-left: 25%;
 				overflow: auto;
 			}
 
@@ -87,8 +91,10 @@
 				font-family: Arial, Helvetica, sans-serif;
 			}
 
-			#italic{
+			.italic{
 				font-style:italic;
+				padding-bottom: 3%;
+				font-family: Arial, Helvetica, sans-serif;
 			}
 
 			.responsive{
@@ -101,12 +107,12 @@
 			.responsiveLast{
 				width: 100%;
 			  	height: auto;
-			  	padding-bottom: 3%;
+			  	padding-bottom: 2%;
 
 			}
 
 			.footerLast{
-				padding-bottom: 3%;
+				padding-bottom: 1%;
 			}
 
 			.Soft{
