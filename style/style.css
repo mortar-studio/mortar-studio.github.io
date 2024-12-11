@@ -85,7 +85,7 @@
 				  color: white;
 				  padding: 0.5em;
 				  font-size: 1em;
-							width: 100%;
+							width: 95vw;
 				  border: none;
 				  cursor: pointer;
 				}
@@ -99,7 +99,7 @@
 				  display: none;
 				  position: absolute;
 				  background-color: #f9f9f9;
-				  width: 100%;
+				  width: 95vw;
 				  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 				  z-index: 1;
 				}
@@ -118,7 +118,7 @@
 				}
 				
 				.dropdown:hover .dropbtn {
-				  background-color: #3e8e41;
+				  background-color: #686868;
 				}
 	
 	/* dropdown Trial */
